@@ -1,0 +1,12 @@
+{
+  "prefix": "nw!",
+  "token": "MTAwMzgxNTEzNTc0OTYxOTc1Mw.GwW4n-.2NZw2_vd_C6evnDTn2txkWuVDjXYkzaOEJUsu8",
+  "owners": ["894280521687896114"],
+  "footer": "NSFW Bot • Made as a gift to Wolfy by And0n",
+
+  "msg": {
+    "nsfwWarn": "You must use this command in an nsfw channel!",
+    "loading": "Please wait...",
+    "imageNotLoading": "Image not loading ? Click Here"
+  }
+}
