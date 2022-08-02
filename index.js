@@ -3,21 +3,8 @@ const Discord = require("discord.js"),
   client = new nsfwBot(),
   config = require('./config.json');
 
-  const express = require('express')
-  const app = express()
-  const port = 3000
-  
-  app.get('/', (req, res) => {
-    res.send('Hello World!')
-  })
-  
-  app.listen(port, () => {
-    console.log(`Example app listening on port ${port}`)
-  })
-
-
-
-
+ 
+ 
 require("discord-buttons")(client);
 require("./handler/Module.js")(client);
 require("./handler/Event.js")(client);
